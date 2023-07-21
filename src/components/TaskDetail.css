@@ -1,0 +1,18 @@
+.task-detail {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.task-detail h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.task-detail div {
+  padding: 10px;
+  background-color: #fff;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
